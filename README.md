@@ -22,7 +22,7 @@ Developed sales prediction using Python: [click here to download](https://github
 
 Used big data tools(MySQL) and Jupyter Notebook to manipulate datasets: [click here to download](https://github.com/FarranceMM/Data-Science-Framework/blob/main/SQL%20Employee%20Salary%20Project.ipynb)
 
-Developed social media usage by each country using R: [click here to download](https://github.com/FarranceMM/scientific-databoard/blob/main/R%20Project%20Social%20Media%20Usage.R)
+Developed social media usage by each country using R: [click here to download](https://github.com/FarranceMM/Data-Science-Framework/blob/main/R%20Project%20Social%20Media%20Usage.R)
 
 ### Skills
 Programming: Python(Pandas, Numpy), R, SQL
